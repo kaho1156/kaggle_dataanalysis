@@ -10,7 +10,4 @@ This project explores customer behavior using a real-world dataset from Kaggle. 
 
 ## 🧰 Tools Used
 - Python (pandas, matplotlib, seaborn)
-- Power BI
 - Jupyter Notebook
-
-## 📂 Project Structure
